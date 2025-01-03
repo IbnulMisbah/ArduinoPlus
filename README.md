@@ -135,10 +135,6 @@ A flood protection system that monitors water levels and sends a message if leve
 3. Upload the code to the respective board.
 
 
----
-
-## 📜 License
-This repository is licensed under the MIT License.
 
 ---
 
